@@ -30,7 +30,7 @@ A shell script to automatically update Tailscale on OpenWrt devices. This tool h
 
 1. Download the update script:
 ```bash
-wget -O /usr/sbin/tailscale-update https://raw.githubusercontent.com/username/tailscale-updater-for-openwrt/main/update.sh
+wget -O /usr/sbin/tailscale-update https://raw.githubusercontent.com/bigQY/tailscale-updater-for-openwrt/main/update.sh
 ```
 
 2. Make the script executable:
@@ -90,7 +90,7 @@ cat /var/tmp/tailscale_update.log
 
 1. 下载更新脚本：
 ```bash
-wget -O /usr/sbin/tailscale-update https://raw.githubusercontent.com/username/tailscale-updater-for-openwrt/main/update.sh
+wget -O /usr/sbin/tailscale-update https://raw.githubusercontent.com/bigQY/tailscale-updater-for-openwrt/main/update.sh
 ```
 
 2. 设置脚本执行权限：
